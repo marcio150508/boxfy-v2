@@ -7,6 +7,15 @@
       "description": "Tênis da marca off white, disponível 3 unidades da cor preta e branca , tamanhos 42,43,44",
       "price": "100000",
       "image": "/images/uploads/img-20260808-wa0012.jpg"
+    },
+    {
+      "stock": "Últimas unidades",
+      "name": "Pulseiras de 7 nós ",
+      "category": "Acessório",
+      "description": "Pulseiras de 7 nós, estilo minimalista e  discreto ",
+      "price": "1.000",
+      "image": "/images/uploads/pulseiras-7nós-kabbalah-kabala.jpeg",
+      "tags": "pulseiras, vermelhas e pretas "
     }
   ]
 }
